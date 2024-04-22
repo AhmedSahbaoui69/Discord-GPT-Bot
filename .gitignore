@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+cogs/__pycache__/
+model/*
+.generating
+tts.mp3
